@@ -1,2 +1,2 @@
-# crypto-trading-bot
+# cryptobot
 Free Cryptocurrency Trading Bot
